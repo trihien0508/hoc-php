@@ -1,0 +1,7 @@
+﻿1
+2/a/Một công việc liên quan đến nghệ thuật, ca sĩ chẳng hạn./1
+2/b/Một công việc được năng động, được hoạt động nhiều như dancer hay vận động viên./2
+2/c/Một công việc đòi hỏi phân tích, logic và xử lý, tìm hiểu thông tin như nhà nghiên cứu, kỹ thuật viên./3
+3/a/“Người có tính tự tôn khá cao, sáng tạo và hiểu biết.”/1
+3/b/“Kẻ tràn trề năng lượng, thường xuyên phá vỡ các quy tắc.”/2
+3/c/“Hướng ngoại, ưa hòa mình vào thế giới xung quanh để cảm nhận và khám phá.”/3

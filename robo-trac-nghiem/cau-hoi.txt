@@ -1,0 +1,10 @@
+﻿1
+2/Công việc lý tưởng của bạn là gì?
+3/Những người bạn thân nhất thường miêu tả bạn là?
+4/Bạn mong muốn sau này sẽ có một 'nửa kia' như thế nào nhỉ?
+5/Thú nhận đi, mọi người thường không thích bạn vì điều gì?
+6/Bạn nghĩ điều gì làm mình hạnh phúc nhất trong cuộc sống?
+7/Thể loại phim mà bạn thích nhất là gì nhỉ?
+8/Điều gì ở bạn cho thấy bạn là một người bạn tốt?
+9/Nếu bây giờ có một điều ước, bạn sẽ ước gì (không phải là 'hoà bình cho thế giới' nhé!)
+10/Còn 1 câu cuối cùng thôi này: Bạn nghĩ mình là người thế nào nhỉ?
